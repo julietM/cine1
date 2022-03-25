@@ -1,0 +1,55 @@
+
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: black;
+}
+:root {
+    --primary-color: hsl(162, 100%, 52%);
+    --secondary-color: hsl(162, 100%, 52%);
+}
+
+.image {
+    margin-left: 50px;
+    width: 100px;
+}
+
+
+.image {
+    margin-left: 50px;
+    width: 100px;
+}
+
+.links {
+    color: #000;
+}
+
+.links:visited {
+    color: #333;
+}
+
+.links:nth-child(1) {
+    margin-right: 25px;
+}
+
+.links:visited {
+    color: #333;
+}
+
+.links:nth-child(1) {
+    margin-right: 25px;
+}
+
+.form {
+    background-color: var(--primary-color);
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 20px;
+}
+
